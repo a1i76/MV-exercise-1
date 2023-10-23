@@ -4,3 +4,5 @@
 ### in Matlab
 
 #### get two points from user as input, and draw a line connecting them.
+
+### Alireza Khoshnoo
