@@ -3,8 +3,6 @@
 ## machine vision exercise 1
 ### in Matlab
 
-#### 1: draw a circle
-#### 2: iran flag
-#### 3: draw a triangle
+#### get two points from user as input, and draw a line connecting them.
 
 ### Alireza Khoshnoo
